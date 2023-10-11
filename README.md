@@ -1,2 +1,2 @@
-# odin-css-assignments
-Odin CSS Assingments
+# odin-css-assignment
+These are css assingments from Odin
