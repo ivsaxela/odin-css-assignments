@@ -1,6 +1,6 @@
-p {
+.odd {
     background-color: rgb(255, 192, 203); 
-    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 #2 {
     color: rgb(0, 100, 255);
