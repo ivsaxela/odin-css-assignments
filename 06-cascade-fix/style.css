@@ -20,6 +20,7 @@ body {
     background: green;
     color: white;
     font-weight: bold;
+    font-size: 20px;
   } 
   
   .cancel {
