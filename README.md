@@ -1,2 +1,2 @@
 # odin-css-assignment
-These are css assingments from Odin
+These are completed css foundational assingments from the Odin project
